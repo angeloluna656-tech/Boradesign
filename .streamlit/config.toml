@@ -12,7 +12,7 @@ enableXsrfProtection = false
 
 [client]
 showErrorDetails = false
-toolbarMode = "viewer"
+toolbarMode = "minimal"
 
 [ui]
 hideTopBar = true
